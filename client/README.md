@@ -1,3 +1,3 @@
 # Todo_list with useReducer
 
-<iframe src="https://drive.google.com/file/d/17BQ8J4R-1bGe0ocyFxwX_nK-wXbjIQJv/preview" width="640" height="480"></iframe>
+![todo_list](https://user-images.githubusercontent.com/66318653/119215094-79a53480-bb06-11eb-9386-40180049f379.gif)
