@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "todo_name": "리액트 공부하기",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "todo_name": "리덕스 공부하기",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "todo_name": "방구 뀌기",
+    "completed": false
+  }
+]

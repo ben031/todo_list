@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "고도";
+}
+
+.App {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.header {
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.todoList {
+  margin-top: 3rem;
+  padding: 3rem;
+  background-color: rgb(181, 201, 218);
+  border-radius: 10px;
+  height: 70vh;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+}
